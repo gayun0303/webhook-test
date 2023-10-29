@@ -9,3 +9,6 @@ webhook 설정, 받는 컨트롤러 설정, postman 테스트 O (requestBody nul
 
 2023-10-25 20:00
 배포 X, push hook test 01
+
+2023-10-29 17:37
+로컬, push event, 수신 및 저장 테스트 01
