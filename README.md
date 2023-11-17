@@ -72,3 +72,6 @@ webhook 설정, 받는 컨트롤러 설정, postman 테스트 O (requestBody nul
 
 2023-11-15 16:12
 알림 타입: push, 알림 timestamp : Date 타입 수정 후 테스트, 키워드 : null
+
+2023-11-17 10:52
+시연 시나리오 사진용 커밋
